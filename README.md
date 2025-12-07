@@ -13,7 +13,7 @@ You can use the following demo accounts to explore **Kazi Haven**. If you want t
 
 | Role   | Email                         | Password  |
 |--------|-------------------------------|-----------|
-| Recruiter  | ngondimarklewis@gmail.com  | denis1998   |
+| Recruiter  | mwakidenice@gmail.com  | denis1998   |
 | Student | kaaria204111@students.must.ac.ke  | denis1998  |
 
 🔹 **Note:** Some features may be restricted to specific roles. Create an account to personalize your experience! 🚀  
@@ -128,7 +128,7 @@ This project is **open-source** and available under the [MIT License](LICENSE).
 
 ## 🎯 Connect With Me
 💡 Have a question or suggestion? Let's connect!
-- 🔗 [LinkedIn:](#)
+- 🔗 [LinkedIn:](Denis_IT)
 - 🐦 [Twitter:](https://x.com/Kaaria_Denis)
 - 🌐 [Portfolio:](https://mwakidenis.github.io/Portfolio/)
 
